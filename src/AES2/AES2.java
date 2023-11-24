@@ -396,11 +396,7 @@ public class AES2 {
                 System.out.println();
             }
 
-//            for (int i = 0; i < 4; i++) {
-//                for (int j = 0; j < Nb; j++) {
-//                    state[i][j] = subWord(state[i][j]) & 0xFF;
-//                }
-//            }
+
 
         }
 
@@ -443,11 +439,7 @@ public class AES2 {
                 System.out.println();
             }
 
-//            for (int i = 0; i < 4; i++) {
-//                for (int j = 0; j < Nb; j++) {
-//                    state[i][j] = invSubWord(state[i][j]) & 0xFF;
-//                }
-//            }
+
 
         }
 
