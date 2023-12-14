@@ -3,6 +3,8 @@
 The provided code snippet is from a Java class called AES2 that implements the Advanced Encryption Standard (AES) algorithm. Here's a breakdown of the code:
 Key Initialization:
 
+[Springer Link](https://link.springer.com/chapter/10.1007/978-981-19-7753-4_8 "Publication of this project")
+
 ## AES Encryption/Decryption in Java
 
 **Features:**
